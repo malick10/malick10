@@ -1,4 +1,4 @@
-# Malick Sall
+# Malick SALL
 
 **PhD Candidate — School of Mechanical and Electronic Engineering**  
 Wuhan University of Technology, Wuhan, China

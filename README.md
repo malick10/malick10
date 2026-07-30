@@ -30,7 +30,8 @@ Automating the training curriculum for homotopy-based PINNs so that stage sequen
 
 | Repo | Description |
 |------|-------------|
-| [auto-curriculum-pinn](https://github.com/malick10/auto-curriculum-pinn) | Criterion A + adaptive step rule for homotopy-based PINNs · PyTorch · pre-computed results included |
+| [pinn-thd-bearing](https://github.com/malick10/pinn-thd-bearing) | PINN solver for THD journal bearing analysis with JFO cavitation · validated against Ferron 1983 · PyTorch |
+| [auto-curriculum-pinn](https://github.com/malick10/auto-curriculum-pinn) | Automatic curriculum scheduling for homotopy-based PINNs · Criterion A + adaptive step rule · PyTorch |
 
 ---
 

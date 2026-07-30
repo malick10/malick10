@@ -1,7 +1,10 @@
-# Malick SALL
+# Malick Sall
 
-**PhD Candidate — School of Mechanical and Electronic Engineering**  
+**PhD Candidate — School of Mechanical and Electronic Engineering**
 Wuhan University of Technology, Wuhan, China
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6522--7489-brightgreen?logo=orcid)](https://orcid.org/0009-0005-6522-7489)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Malick--Sall--3-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Malick-Sall-3)
 
 ---
 
@@ -9,7 +12,7 @@ Wuhan University of Technology, Wuhan, China
 
 My work sits at the intersection of **scientific machine learning** and **tribology**. I develop Physics-Informed Neural Networks (PINNs) for problems that are hard to solve with classical numerical methods — particularly thermohydrodynamic lubrication, cavitation modelling, and convection-dominated PDEs.
 
-**Current focus:**  
+**Current focus:**
 Automating the training curriculum for homotopy-based PINNs so that stage sequences, step sizes, and training budgets are determined online without manual tuning.
 
 ---
@@ -33,5 +36,7 @@ Automating the training curriculum for homotopy-based PINNs so that stage sequen
 
 ### Contact
 
-📧 malicksall@whut.edu.cn  
-🏛 Wuhan University of Technology · School of Mechanical and Electronic Engineering
+- Email: malicksall@whut.edu.cn
+- ORCID: [0009-0005-6522-7489](https://orcid.org/0009-0005-6522-7489)
+- ResearchGate: [Malick-Sall-3](https://www.researchgate.net/profile/Malick-Sall-3)
+- Institution: Wuhan University of Technology, School of Mechanical and Electronic Engineering
